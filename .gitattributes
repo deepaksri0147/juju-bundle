@@ -1,1 +1,2 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
+juju-charm-files/ filter=lfs diff=lfs merge=lfs -text
